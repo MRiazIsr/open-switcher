@@ -3,9 +3,9 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import fs from 'fs';
 import path from 'path';
-import { Star, Shield, Clock, ArrowLeft, Github, Server } from 'lucide-react';
-
-const REF_LINK = "https://hetzner.cloud";
+import { Star, Shield, Clock, ArrowLeft, Github, Zap } from 'lucide-react';
+import { SITE_CONFIG } from '@/lib/constants'; // <--- Импортируем конфиг с рефералкой
+import { BrandIcon } from '@/components/brand-icon';
 
 // --- Типы ---
 interface Repo {
@@ -23,6 +23,7 @@ interface PageData {
     alternatives: Repo[];
 }
 
+// --- Получение данных ---
 async function getData(slug: string): Promise<PageData | undefined> {
     const filePath = path.join(process.cwd(), 'db.json');
     if (!fs.existsSync(filePath)) return undefined;
@@ -39,20 +40,7 @@ export async function generateStaticParams() {
     return data.map((item) => ({ slug: item.slug }));
 }
 
-const RepoIcon = ({ name }: { name: string }) => {
-    const letter = name.charAt(0).toUpperCase();
-    const gradients = [
-        'from-blue-500 to-cyan-500', 'from-purple-500 to-pink-500',
-        'from-orange-500 to-red-500', 'from-emerald-500 to-teal-500'
-    ];
-    const randomGradient = gradients[name.length % gradients.length];
-    return (
-        <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${randomGradient} flex items-center justify-center shadow-lg text-white font-bold text-xl`}>
-            {letter}
-        </div>
-    );
-};
-
+// --- Страница ---
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
     const resolvedParams = await params;
     const data = await getData(resolvedParams.slug);
@@ -61,10 +49,11 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
 
     return (
         <div className="min-h-screen bg-gray-50 dark:bg-slate-950 text-slate-900 dark:text-white font-sans transition-colors duration-300">
-            {/* Background Decor */}
+            {/* Фон */}
             <div className="absolute top-0 left-0 w-full h-64 bg-gradient-to-b from-blue-50 to-transparent dark:from-blue-900/20 -z-10" />
 
             <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12">
+                {/* Кнопка Назад */}
                 <Link
                     href="/"
                     className="inline-flex items-center text-sm font-medium text-slate-500 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 mb-8 transition-colors"
@@ -73,6 +62,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                     Back to categories
                 </Link>
 
+                {/* Заголовок страницы */}
                 <div className="text-center max-w-2xl mx-auto mb-16">
                     <div className="inline-block px-3 py-1 mb-4 text-xs font-semibold tracking-wider text-blue-600 dark:text-blue-300 uppercase bg-blue-100 dark:bg-blue-900/30 rounded-full">
                         Open Source Alternatives
@@ -82,21 +72,22 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                     </h1>
                     <p className="text-xl text-slate-600 dark:text-slate-400 leading-relaxed">
                         Switch to these powerful, self-hosted alternatives. <br className="hidden md:block"/>
-                        Secure, private, and free forever.
+                        Deploy in 1-click or check the source code.
                     </p>
                 </div>
 
+                {/* Сетка Альтернатив */}
                 <div className="grid gap-6 md:grid-cols-2">
                     {data.alternatives.map((repo) => (
                         <div
                             key={repo.url}
-                            className="group relative bg-white dark:bg-slate-900 rounded-2xl p-6 border border-gray-100 dark:border-slate-800 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden"
+                            className="group relative bg-white dark:bg-slate-900 rounded-2xl p-6 border border-gray-100 dark:border-slate-800 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden flex flex-col"
                         >
                             <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 to-indigo-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300" />
 
                             <div className="flex items-start justify-between mb-4">
                                 <div className="flex items-center gap-4">
-                                    <RepoIcon name={repo.name} />
+                                    <BrandIcon name={repo.name} />
                                     <div>
                                         <h2 className="text-xl font-bold group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                                             {repo.name}
@@ -114,7 +105,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                                 </div>
                             </div>
 
-                            <p className="text-slate-600 dark:text-slate-400 mb-6 line-clamp-2 h-12 text-sm leading-relaxed">
+                            <p className="text-slate-600 dark:text-slate-400 mb-6 line-clamp-2 text-sm leading-relaxed flex-grow">
                                 {repo.description || `A powerful open-source alternative to ${data.saas_name}.`}
                             </p>
 
@@ -125,7 +116,8 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                                 </div>
                             </div>
 
-                            <div className="grid grid-cols-2 gap-3">
+                            {/* КНОПКИ ДЕЙСТВИЯ */}
+                            <div className="grid grid-cols-2 gap-3 mt-auto">
                                 <a
                                     href={repo.url}
                                     target="_blank"
@@ -137,12 +129,12 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                                 </a>
 
                                 <a
-                                    href={REF_LINK}
+                                    href={SITE_CONFIG.DO_REF} // <--- ВОТ ВАША ССЫЛКА ИЗ КОНФИГА
                                     target="_blank"
-                                    className="flex items-center justify-center px-4 py-2.5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-medium rounded-xl hover:bg-blue-600 dark:hover:bg-blue-50 transition-colors shadow-lg text-sm"
+                                    className="flex items-center justify-center px-4 py-2.5 bg-blue-600 text-white font-medium rounded-xl hover:bg-blue-700 transition-colors shadow-lg shadow-blue-600/20 text-sm group-hover:scale-105 transform duration-200"
                                 >
-                                    <Server className="w-4 h-4 mr-2" />
-                                    Deploy
+                                    <Zap className="w-4 h-4 mr-2 fill-current" />
+                                    {SITE_CONFIG.CTA_TEXT}
                                 </a>
                             </div>
                         </div>
