@@ -1,0 +1,51 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # Запускать каждый день в 8:00 утра (UTC)
+    - cron: '0 8 * * *'
+  # Кнопка для ручного запуска (чтобы протестировать прямо сейчас)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+
+      # Инициализируем Go модуль, если его вдруг нет (страховка)
+      - name: Init Go module
+        run: |
+          if [ ! -f go.mod ]; then
+            go mod init open-switcher
+            go get github.com/lib/pq
+          fi
+
+      - name: Run Data Collector
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: go run main.go
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Проверяем, изменился ли db.json
+          if [[ `git status --porcelain db.json` ]]; then
+            git add db.json
+            git commit -m "🤖 Auto-update: Fresh data from GitHub"
+            git push
+            echo "✅ Changes pushed to repository."
+          else
+            echo "💤 No changes in data."
+          fi
