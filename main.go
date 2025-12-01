@@ -78,8 +78,7 @@ func main() {
 	for _, seed := range seeds {
 		fmt.Printf("Processing alternatives for: %s\n", seed.SaaSName)
 
-		var alternatives []RepoDetail
-
+        alternatives := make([]RepoDetail, 0)
 		for _, repoFullName := range seed.Repos {
 			repoData, err := fetchRepoInfo(client, token, repoFullName)
 			if err != nil {

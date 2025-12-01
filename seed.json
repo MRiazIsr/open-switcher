@@ -1,102 +1,53 @@
 [
-  {
-    "saas_name": "Trello",
-    "slug": "trello",
-    "repos": ["kanboard/kanboard", "wekan/wekan", "plankanban/planka", "focalboard/focalboard"]
-  },
-  {
-    "saas_name": "Slack",
-    "slug": "slack",
-    "repos": ["mattermost/mattermost", "RocketChat/Rocket.Chat", "zulip/zulip"]
-  },
-  {
-    "saas_name": "Notion",
-    "slug": "notion",
-    "repos": ["AppFlowy-IO/AppFlowy", "outline/outline", "affine-design/affine"]
-  },
-  {
-    "saas_name": "Jira",
-    "slug": "jira",
-    "repos": ["makeplane/plane", "Leantime/leantime", "peppermint-lab/peppermint"]
-  },
-  {
-    "saas_name": "Heroku",
-    "slug": "heroku",
-    "repos": ["dokku/dokku", "caprover/caprover", "coollabsio/coolify"]
-  },
-  {
-    "saas_name": "Firebase",
-    "slug": "firebase",
-    "repos": ["supabase/supabase", "appwrite/appwrite", "pocketbase/pocketbase"]
-  },
-  {
-    "saas_name": "Shopify",
-    "slug": "shopify",
-    "repos": ["medusajs/medusa", "saleor/saleor", "spree/spree"]
-  },
-  {
-    "saas_name": "Google Analytics",
-    "slug": "google-analytics",
-    "repos": ["matomo-org/matomo", "plausible/analytics", "umami-software/umami"]
-  },
-  {
-    "saas_name": "Zoom",
-    "slug": "zoom",
-    "repos": ["jitsi/jitsi-meet", "bigbluebutton/bigbluebutton"]
-  },
-  {
-    "saas_name": "Figma",
-    "slug": "figma",
-    "repos": ["penpot/penpot"]
-  },
-  {
-    "saas_name": "Salesforce",
-    "slug": "salesforce",
-    "repos": ["odoo/odoo", "espocrm/espocrm"]
-  },
-  {
-    "saas_name": "LastPass / 1Password",
-    "slug": "password-managers",
-    "repos": ["bitwarden/server", "dani-garcia/vaultwarden", "passbolt/passbolt_api"]
-  },
-  {
-    "saas_name": "Dropbox / Google Drive",
-    "slug": "dropbox",
-    "repos": ["nextcloud/server", "owncloud/core", "filebrowser/filebrowser"]
-  },
-  {
-    "saas_name": "GitHub",
-    "slug": "github",
-    "repos": ["gitlabhq/gitlabhq", "go-gitea/gitea", "forgejo/forgejo"]
-  },
-  {
-    "saas_name": "Zapier",
-    "slug": "zapier",
-    "repos": ["n8n-io/n8n", "activepieces/activepieces"]
-  },
-  {
-    "saas_name": "DocuSign",
-    "slug": "docusign",
-    "repos": ["docusealco/docuseal", "documenso/documenso"]
-  },
-  {
-    "saas_name": "Calendly",
-    "slug": "calendly",
-    "repos": ["calcom/cal.com"]
-  },
-  {
-    "saas_name": "Intercom",
-    "slug": "intercom",
-    "repos": ["chatwoot/chatwoot", "papercups-io/papercups"]
-  },
-  {
-    "saas_name": "Datadog",
-    "slug": "datadog",
-    "repos": ["signoz/signoz", "prometheus/prometheus", "grafana/grafana"]
-  },
-  {
-    "saas_name": "Mailchimp",
-    "slug": "mailchimp",
-    "repos": ["knadh/listmonk", "mautic/mautic"]
-  }
+  { "saas_name": "Trello", "slug": "trello", "repos": ["kanboard/kanboard", "wekan/wekan", "plankanban/planka", "focalboard/focalboard"] },
+  { "saas_name": "Slack", "slug": "slack", "repos": ["mattermost/mattermost", "RocketChat/Rocket.Chat", "zulip/zulip", "tinode/chat"] },
+  { "saas_name": "Notion", "slug": "notion", "repos": ["AppFlowy-IO/AppFlowy", "outline/outline", "affine-design/affine", "siYuanNote/siYuan"] },
+  { "saas_name": "Jira", "slug": "jira", "repos": ["makeplane/plane", "Leantime/leantime", "peppermint-lab/peppermint", "taigaio/taiga-back"] },
+  { "saas_name": "Heroku", "slug": "heroku", "repos": ["dokku/dokku", "caprover/caprover", "coollabsio/coolify", "piku/piku"] },
+  { "saas_name": "Firebase", "slug": "firebase", "repos": ["supabase/supabase", "appwrite/appwrite", "pocketbase/pocketbase", "nhost/nhost"] },
+  { "saas_name": "Shopify", "slug": "shopify", "repos": ["medusajs/medusa", "saleor/saleor", "spree/spree", "bagisto/bagisto"] },
+  { "saas_name": "Google Analytics", "slug": "google-analytics", "repos": ["matomo-org/matomo", "plausible/analytics", "umami-software/umami", "pirsch-analytics/pirsch"] },
+  { "saas_name": "Zoom", "slug": "zoom", "repos": ["jitsi/jitsi-meet", "bigbluebutton/bigbluebutton", "mirotalk/p2p"] },
+  { "saas_name": "Figma", "slug": "figma", "repos": ["penpot/penpot"] },
+  { "saas_name": "Salesforce", "slug": "salesforce", "repos": ["odoo/odoo", "espocrm/espocrm", "salesagility/SuiteCRM", "Dolibarr/dolibarr"] },
+  { "saas_name": "LastPass / 1Password", "slug": "password-managers", "repos": ["bitwarden/server", "dani-garcia/vaultwarden", "passbolt/passbolt_api"] },
+  { "saas_name": "Dropbox / Google Drive", "slug": "dropbox", "repos": ["nextcloud/server", "owncloud/core", "filebrowser/filebrowser", "seafile/seafile"] },
+  { "saas_name": "GitHub", "slug": "github", "repos": ["gitlabhq/gitlabhq", "go-gitea/gitea", "forgejo/forgejo", "gogs/gogs"] },
+  { "saas_name": "Zapier", "slug": "zapier", "repos": ["n8n-io/n8n", "activepieces/activepieces", "automatisch/automatisch"] },
+  { "saas_name": "DocuSign", "slug": "docusign", "repos": ["docusealco/docuseal", "documenso/documenso"] },
+  { "saas_name": "Calendly", "slug": "calendly", "repos": ["calcom/cal.com"] },
+  { "saas_name": "Intercom", "slug": "intercom", "repos": ["chatwoot/chatwoot", "papercups-io/papercups", "chaskiq/chaskiq"] },
+  { "saas_name": "Datadog", "slug": "datadog", "repos": ["signoz/signoz", "prometheus/prometheus", "grafana/grafana"] },
+  { "saas_name": "Mailchimp", "slug": "mailchimp", "repos": ["knadh/listmonk", "mautic/mautic", "mailtrain-org/mailtrain"] },
+  { "saas_name": "Adobe Photoshop", "slug": "photoshop", "repos": ["GNOME/gimp", "krita/krita"] },
+  { "saas_name": "Adobe Illustrator", "slug": "illustrator", "repos": ["inkscape/inkscape"] },
+  { "saas_name": "Adobe Lightroom", "slug": "lightroom", "repos": ["darktable-org/darktable", "Beep6581/RawTherapee"] },
+  { "saas_name": "Microsoft Office", "slug": "office", "repos": ["LibreOffice/core", "ONLYOFFICE/DocumentServer"] },
+  { "saas_name": "Evernote", "slug": "evernote", "repos": ["laurent22/joplin", "standardnotes/app"] },
+  { "saas_name": "Auth0", "slug": "auth0", "repos": ["keycloak/keycloak", "zitadel/zitadel", "ory/kratos"] },
+  { "saas_name": "Airtable", "slug": "airtable", "repos": ["nocodb/nocodb", "baserow/baserow", "teableio/teable"] },
+  { "saas_name": "Vercel / Netlify", "slug": "vercel", "repos": ["coollabsio/coolify", "easypanel-io/easypanel"] },
+  { "saas_name": "Postman", "slug": "postman", "repos": ["hoppscotch/hoppscotch", "usebruno/bruno"] },
+  { "saas_name": "Sentry", "slug": "sentry", "repos": ["getsentry/sentry", "highlight/highlight"] },
+  { "saas_name": "Typeform", "slug": "typeform", "repos": ["typebot.io/typebot", "formbricks/formbricks"] },
+  { "saas_name": "Discord", "slug": "discord", "repos": ["revoltchat/backend", "vector-im/element-web"] },
+  { "saas_name": "TeamViewer", "slug": "teamviewer", "repos": ["rustdesk/rustdesk"] },
+  { "saas_name": "Bitly", "slug": "bitly", "repos": ["shlinkio/shlink", "dubinc/dub"] },
+  { "saas_name": "Intercom", "slug": "intercom", "repos": ["chatwoot/chatwoot"] },
+  { "saas_name": "Zendesk", "slug": "zendesk", "repos": ["zammad/zammad", "freescout-helpdesk/freescout"] },
+  { "saas_name": "PagerDuty", "slug": "pagerduty", "repos": ["grafana/oncall"] },
+  { "saas_name": "StatusPage", "slug": "statuspage", "repos": ["louislam/uptime-kuma", "cachethq/cachet"] },
+  { "saas_name": "Algolia", "slug": "algolia", "repos": ["meilisearch/meilisearch", "typesense/typesense"] },
+  { "saas_name": "Cloudinary", "slug": "cloudinary", "repos": ["imgproxy/imgproxy"] },
+  { "saas_name": "Plaid", "slug": "plaid", "repos": ["actualbudget/actual"] },
+  { "saas_name": "Mint", "slug": "mint", "repos": ["maybe-finance/maybe", "firefly-iii/firefly-iii"] },
+  { "saas_name": "Linktree", "slug": "linktree", "repos": ["LittleLink/LittleLink"] },
+  { "saas_name": "Substack", "slug": "substack", "repos": ["TryGhost/Ghost"] },
+  { "saas_name": "Medium", "slug": "medium", "repos": ["forem/forem"] },
+  { "saas_name": "Canva", "slug": "canva", "repos": ["polotno-project/polotno-studio"] },
+  { "saas_name": "Grammarly", "slug": "grammarly", "repos": ["languagetool-org/languagetool"] },
+  { "saas_name": "Google Photos", "slug": "google-photos", "repos": ["immich-app/immich", "photoprism/photoprism"] },
+  { "saas_name": "YouTube", "slug": "youtube", "repos": ["Chocobozzz/PeerTube"] },
+  { "saas_name": "Spotify", "slug": "spotify", "repos": ["navidrome/navidrome"] },
+  { "saas_name": "Google Translate", "slug": "google-translate", "repos": ["LibreTranslate/LibreTranslate"] }
 ]
