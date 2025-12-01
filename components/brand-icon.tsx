@@ -4,10 +4,8 @@ import { useState } from "react";
 
 // Словарь: Ключ = Имя, Значение = Домен ИЛИ Прямая ссылка на картинку
 const DOMAIN_MAP: Record<string, string> = {
-    // ФИКС ДЛЯ ZOOM: Берем иконку напрямую у Google, она точно правильная
     "Zoom": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zoom.us&size=128",
 
-    // Остальные домены
     "Google Analytics": "google.com",
     "Firebase": "firebase.google.com",
     "Dropbox / Google Drive": "dropbox.com",

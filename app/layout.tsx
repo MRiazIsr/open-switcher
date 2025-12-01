@@ -7,7 +7,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Open Switcher - Free Open Source Alternatives",
+    title: "Open Alternative - Free Open Source Alternatives",
     description: "Find free self-hosted alternatives to popular SaaS products.",
 };
 
@@ -30,7 +30,7 @@ export default function RootLayout({
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
                     {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
                     <a href="/" className="font-bold text-xl tracking-tight text-slate-900 dark:text-white">
-                        Open<span className="text-blue-600">Switcher</span>
+                        Open<span className="text-blue-600">Alternative</span>
                     </a>
                     <ThemeToggle />
                 </div>
