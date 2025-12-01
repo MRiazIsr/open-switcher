@@ -112,7 +112,7 @@
       {
         "name": "leantime",
         "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
-        "stars": 8680,
+        "stars": 8681,
         "url": "https://github.com/Leantime/leantime",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-30"
@@ -180,7 +180,7 @@
       {
         "name": "supabase",
         "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "stars": 93861,
+        "stars": 93862,
         "url": "https://github.com/supabase/supabase",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -196,7 +196,7 @@
       {
         "name": "pocketbase",
         "description": "Open Source realtime backend in 1 file",
-        "stars": 53805,
+        "stars": 53806,
         "url": "https://github.com/pocketbase/pocketbase",
         "license": "MIT License",
         "last_update": "2025-11-22"
@@ -368,7 +368,7 @@
       {
         "name": "server",
         "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
-        "stars": 17545,
+        "stars": 17546,
         "url": "https://github.com/bitwarden/server",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -414,7 +414,7 @@
       {
         "name": "filebrowser",
         "description": "📂 Web File Browser",
-        "stars": 32233,
+        "stars": 32235,
         "url": "https://github.com/filebrowser/filebrowser",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -444,7 +444,7 @@
       {
         "name": "gogs",
         "description": "Gogs is a painless self-hosted Git service",
-        "stars": 47270,
+        "stars": 47271,
         "url": "https://github.com/gogs/gogs",
         "license": "MIT License",
         "last_update": "2025-11-30"
@@ -458,7 +458,7 @@
       {
         "name": "n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 159926,
+        "stars": 159937,
         "url": "https://github.com/n8n-io/n8n",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -524,7 +524,7 @@
       {
         "name": "chatwoot",
         "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "stars": 26177,
+        "stars": 26178,
         "url": "https://github.com/chatwoot/chatwoot",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -554,7 +554,7 @@
       {
         "name": "signoz",
         "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) \u0026 Observability tool",
-        "stars": 24728,
+        "stars": 24730,
         "url": "https://github.com/SigNoz/signoz",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -694,7 +694,7 @@
       {
         "name": "app",
         "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
-        "stars": 6140,
+        "stars": 6141,
         "url": "https://github.com/standardnotes/app",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-21"
@@ -724,7 +724,7 @@
       {
         "name": "kratos",
         "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
-        "stars": 13051,
+        "stars": 13052,
         "url": "https://github.com/ory/kratos",
         "license": "Apache License 2.0",
         "last_update": "2025-11-28"
@@ -790,7 +790,7 @@
       {
         "name": "bruno",
         "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-        "stars": 39024,
+        "stars": 39025,
         "url": "https://github.com/usebruno/bruno",
         "license": "MIT License",
         "last_update": "2025-12-01"
@@ -862,7 +862,7 @@
       {
         "name": "rustdesk",
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "stars": 103326,
+        "stars": 103327,
         "url": "https://github.com/rustdesk/rustdesk",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -886,20 +886,6 @@
         "description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
         "stars": 22695,
         "url": "https://github.com/dubinc/dub",
-        "license": "Other",
-        "last_update": "2025-12-01"
-      }
-    ]
-  },
-  {
-    "saas_name": "Intercom",
-    "slug": "intercom",
-    "alternatives": [
-      {
-        "name": "chatwoot",
-        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "stars": 26177,
-        "url": "https://github.com/chatwoot/chatwoot",
         "license": "Other",
         "last_update": "2025-12-01"
       }
@@ -970,7 +956,7 @@
       {
         "name": "meilisearch",
         "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-        "stars": 54762,
+        "stars": 54763,
         "url": "https://github.com/meilisearch/meilisearch",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -978,7 +964,7 @@
       {
         "name": "typesense",
         "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
-        "stars": 24756,
+        "stars": 24757,
         "url": "https://github.com/typesense/typesense",
         "license": "GNU General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1006,7 +992,7 @@
       {
         "name": "actual",
         "description": "A local-first personal finance app",
-        "stars": 23447,
+        "stars": 23451,
         "url": "https://github.com/actualbudget/actual",
         "license": "MIT License",
         "last_update": "2025-11-30"
@@ -1028,7 +1014,7 @@
       {
         "name": "firefly-iii",
         "description": "Firefly III: a personal finances manager",
-        "stars": 21599,
+        "stars": 21600,
         "url": "https://github.com/firefly-iii/firefly-iii",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1103,7 +1089,7 @@
       {
         "name": "immich",
         "description": "High performance self-hosted photo and video management solution.",
-        "stars": 85436,
+        "stars": 85439,
         "url": "https://github.com/immich-app/immich",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"

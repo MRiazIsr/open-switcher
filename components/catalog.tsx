@@ -5,6 +5,7 @@ import Link from "next/link";
 import { ArrowRight, Search } from "lucide-react";
 import { BrandIcon } from "@/components/brand-icon";
 import { VpnCard } from "@/components/vpn-card";
+import { CryptoCard } from "@/components/crypto-card";
 
 interface Repo {
     name: string;
@@ -109,9 +110,14 @@ export function Catalog({ categories }: { categories: PageData[] }) {
                     {filteredCategories.map((cat, index) => (
                         <React.Fragment key={cat.slug}>
 
-                            {/* Реклама каждые 10 карточек */}
-                            {(index > 0 && (index + 1) % 10 === 0) && (
-                                <VpnCard variant="home" />
+                            {index > 0 && (index + 1) % 10 === 0 && (
+                                <>
+                                    {((index + 1) / 10) % 2 !== 0 ? (
+                                        <VpnCard variant="home" />
+                                    ) : (
+                                        <CryptoCard variant="home" />
+                                    )}
+                                </>
                             )}
 
                             <Link

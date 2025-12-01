@@ -3,4 +3,5 @@ export const SITE_CONFIG = {
     CTA_TEXT: "Deploy 1-Click ($200 Free)",
     VPN_REF: "https://surfshark.club/friend/PLACEHOLDER_CODE",
     FIVERR_REF: "https://go.fiverr.com/visit/?bta=YOUR_ID&brand=fiverrhybrid&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dinstall%2520linux%2520server",
+    CRYPTO_REF: "https://shop.ledger.com/?r=60a50e266d91"
 };

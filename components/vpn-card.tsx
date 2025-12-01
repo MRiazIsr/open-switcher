@@ -25,7 +25,7 @@ export function VpnCard({ variant = "home" }: VpnCardProps) {
                     </div>
                     <h3 className="text-2xl font-bold mb-2">Exposed IP?</h3>
                     <p className="text-teal-50 text-sm mb-6 leading-relaxed">
-                        Self-hosting is great, but don't expose your home IP address.
+                        Self-hosting is great, but don&#39;t expose your home IP address.
                         <br/><br/>
                         Secure your connection with <strong>Surfshark VPN</strong>.
                     </p>

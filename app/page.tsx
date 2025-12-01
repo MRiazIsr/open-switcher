@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { Star, Github, TrendingUp, Layers } from 'lucide-react';
-import { Catalog } from '@/components/catalog'; // <-- Новый компонент
+import { Catalog } from '@/components/catalog';
 
 // Типы
 interface Repo {

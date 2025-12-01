@@ -33,7 +33,6 @@
   { "saas_name": "Discord", "slug": "discord", "repos": ["revoltchat/backend", "vector-im/element-web"] },
   { "saas_name": "TeamViewer", "slug": "teamviewer", "repos": ["rustdesk/rustdesk"] },
   { "saas_name": "Bitly", "slug": "bitly", "repos": ["shlinkio/shlink", "dubinc/dub"] },
-  { "saas_name": "Intercom", "slug": "intercom", "repos": ["chatwoot/chatwoot"] },
   { "saas_name": "Zendesk", "slug": "zendesk", "repos": ["zammad/zammad", "freescout-helpdesk/freescout"] },
   { "saas_name": "PagerDuty", "slug": "pagerduty", "repos": ["grafana/oncall"] },
   { "saas_name": "StatusPage", "slug": "statuspage", "repos": ["louislam/uptime-kuma", "cachethq/cachet"] },
