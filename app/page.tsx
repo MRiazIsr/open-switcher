@@ -5,6 +5,7 @@ import { ArrowRight, Star, Github, TrendingUp, Layers } from 'lucide-react';
 
 // --- Типы данных ---
 interface Repo {
+    name: string;   // <--- Добавили это поле
     stars: number;
 }
 
