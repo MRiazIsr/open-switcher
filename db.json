@@ -6,7 +6,7 @@
       {
         "name": "kanboard",
         "description": "Kanban project management software",
-        "stars": 9321,
+        "stars": 9320,
         "url": "https://github.com/kanboard/kanboard",
         "license": "MIT License",
         "last_update": "2025-11-28"
@@ -14,18 +14,18 @@
       {
         "name": "wekan",
         "description": "The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only.",
-        "stars": 20717,
+        "stars": 20720,
         "url": "https://github.com/wekan/wekan",
         "license": "MIT License",
-        "last_update": "2025-11-26"
+        "last_update": "2025-12-01"
       },
       {
         "name": "planka",
         "description": "PLANKA is the kanban-style project mastering tool for everyone.",
-        "stars": 11104,
+        "stars": 11110,
         "url": "https://github.com/plankanban/planka",
         "license": "Other",
-        "last_update": "2025-11-28"
+        "last_update": "2025-12-02"
       },
       {
         "name": "focalboard",
@@ -44,26 +44,26 @@
       {
         "name": "mattermost",
         "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-        "stars": 34514,
+        "stars": 34519,
         "url": "https://github.com/mattermost/mattermost",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "Rocket.Chat",
         "description": "The communications platform that puts data protection first.",
-        "stars": 43989,
+        "stars": 43992,
         "url": "https://github.com/RocketChat/Rocket.Chat",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "zulip",
         "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
-        "stars": 23905,
+        "stars": 23908,
         "url": "https://github.com/zulip/zulip",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "chat",
@@ -82,7 +82,7 @@
       {
         "name": "AppFlowy",
         "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
-        "stars": 66764,
+        "stars": 66771,
         "url": "https://github.com/AppFlowy-IO/AppFlowy",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-16"
@@ -90,10 +90,10 @@
       {
         "name": "outline",
         "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
-        "stars": 36132,
+        "stars": 36148,
         "url": "https://github.com/outline/outline",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -104,15 +104,15 @@
       {
         "name": "plane",
         "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-        "stars": 40227,
+        "stars": 40234,
         "url": "https://github.com/makeplane/plane",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "leantime",
         "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
-        "stars": 8681,
+        "stars": 8682,
         "url": "https://github.com/Leantime/leantime",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-30"
@@ -120,7 +120,7 @@
       {
         "name": "peppermint",
         "description": "An open source issue management \u0026 help desk solution. A zendesk \u0026 jira alternative",
-        "stars": 2840,
+        "stars": 2841,
         "url": "https://github.com/Peppermint-Lab/peppermint",
         "license": "Other",
         "last_update": "2025-09-21"
@@ -142,18 +142,18 @@
       {
         "name": "plane",
         "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-        "stars": 40227,
+        "stars": 40234,
         "url": "https://github.com/makeplane/plane",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "ToolJet",
         "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-        "stars": 36996,
+        "stars": 37000,
         "url": "https://github.com/ToolJet/ToolJet",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -164,7 +164,7 @@
       {
         "name": "vikunja",
         "description": "The to-do app to organize your life.",
-        "stars": 2763,
+        "stars": 2766,
         "url": "https://github.com/go-vikunja/vikunja",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -178,10 +178,10 @@
       {
         "name": "nocodb",
         "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
-        "stars": 58941,
+        "stars": 58942,
         "url": "https://github.com/nocodb/nocodb",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "baserow",
@@ -189,7 +189,7 @@
         "stars": 3429,
         "url": "https://github.com/baserow/baserow",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "focalboard",
@@ -208,10 +208,10 @@
       {
         "name": "nocodb",
         "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
-        "stars": 58941,
+        "stars": 58942,
         "url": "https://github.com/nocodb/nocodb",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "baserow",
@@ -219,15 +219,15 @@
         "stars": 3429,
         "url": "https://github.com/baserow/baserow",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "teable",
         "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
-        "stars": 20489,
+        "stars": 20490,
         "url": "https://github.com/teableio/teable",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "budibase",
@@ -235,7 +235,7 @@
         "stars": 27388,
         "url": "https://github.com/Budibase/budibase",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -246,7 +246,7 @@
       {
         "name": "dokku",
         "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
-        "stars": 31574,
+        "stars": 31575,
         "url": "https://github.com/dokku/dokku",
         "license": "MIT License",
         "last_update": "2025-12-01"
@@ -262,7 +262,7 @@
       {
         "name": "coolify",
         "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku \u0026 Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
-        "stars": 47930,
+        "stars": 47944,
         "url": "https://github.com/coollabsio/coolify",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -284,7 +284,7 @@
       {
         "name": "coolify",
         "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku \u0026 Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
-        "stars": 47930,
+        "stars": 47944,
         "url": "https://github.com/coollabsio/coolify",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -298,34 +298,34 @@
       {
         "name": "supabase",
         "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "stars": 93862,
+        "stars": 93896,
         "url": "https://github.com/supabase/supabase",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "appwrite",
         "description": "The developers' cloud",
-        "stars": 53748,
+        "stars": 53753,
         "url": "https://github.com/appwrite/appwrite",
         "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "pocketbase",
         "description": "Open Source realtime backend in 1 file",
-        "stars": 53807,
+        "stars": 53828,
         "url": "https://github.com/pocketbase/pocketbase",
         "license": "MIT License",
-        "last_update": "2025-11-22"
+        "last_update": "2025-12-02"
       },
       {
         "name": "nhost",
         "description": "The Open Source Firebase Alternative with GraphQL.",
-        "stars": 8921,
+        "stars": 8923,
         "url": "https://github.com/nhost/nhost",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -336,10 +336,10 @@
       {
         "name": "supabase",
         "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "stars": 93862,
+        "stars": 93896,
         "url": "https://github.com/supabase/supabase",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -350,10 +350,10 @@
       {
         "name": "medusa",
         "description": "The world's most flexible commerce platform.",
-        "stars": 31317,
+        "stars": 31322,
         "url": "https://github.com/medusajs/medusa",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "saleor",
@@ -374,7 +374,7 @@
       {
         "name": "bagisto",
         "description": "Free and open source laravel eCommerce platform",
-        "stars": 24543,
+        "stars": 24552,
         "url": "https://github.com/bagisto/bagisto",
         "license": "MIT License",
         "last_update": "2025-11-28"
@@ -388,15 +388,15 @@
       {
         "name": "magento2",
         "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
-        "stars": 11990,
+        "stars": 11991,
         "url": "https://github.com/magento/magento2",
         "license": "Open Software License 3.0",
-        "last_update": "2025-11-29"
+        "last_update": "2025-12-02"
       },
       {
         "name": "opencart",
         "description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
-        "stars": 7964,
+        "stars": 7965,
         "url": "https://github.com/opencart/opencart",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -410,26 +410,26 @@
       {
         "name": "matomo",
         "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites \u0026 apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
-        "stars": 21072,
+        "stars": 21074,
         "url": "https://github.com/matomo-org/matomo",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "analytics",
         "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
-        "stars": 23814,
+        "stars": 23817,
         "url": "https://github.com/plausible/analytics",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "umami",
         "description": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",
-        "stars": 33881,
+        "stars": 33894,
         "url": "https://github.com/umami-software/umami",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "pirsch",
@@ -448,10 +448,10 @@
       {
         "name": "posthog",
         "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-        "stars": 30259,
+        "stars": 30264,
         "url": "https://github.com/PostHog/posthog",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "rudder-server",
@@ -459,7 +459,7 @@
         "stars": 4322,
         "url": "https://github.com/rudderlabs/rudder-server",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -470,7 +470,7 @@
       {
         "name": "jitsi-meet",
         "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
-        "stars": 27729,
+        "stars": 27733,
         "url": "https://github.com/jitsi/jitsi-meet",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -492,15 +492,15 @@
       {
         "name": "mattermost",
         "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-        "stars": 34514,
+        "stars": 34519,
         "url": "https://github.com/mattermost/mattermost",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "jitsi-meet",
         "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
-        "stars": 27729,
+        "stars": 27733,
         "url": "https://github.com/jitsi/jitsi-meet",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -514,10 +514,10 @@
       {
         "name": "penpot",
         "description": "Penpot: The open-source design tool for design and code collaboration",
-        "stars": 42967,
+        "stars": 42978,
         "url": "https://github.com/penpot/penpot",
         "license": "Mozilla Public License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -528,15 +528,15 @@
       {
         "name": "odoo",
         "description": "Odoo. Open Source Apps To Grow Your Business.",
-        "stars": 47575,
+        "stars": 47586,
         "url": "https://github.com/odoo/odoo",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "espocrm",
         "description": "EspoCRM – Open Source CRM Application",
-        "stars": 2668,
+        "stars": 2669,
         "url": "https://github.com/espocrm/espocrm",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-28"
@@ -544,7 +544,7 @@
       {
         "name": "SuiteCRM",
         "description": "SuiteCRM - Open source CRM for the world",
-        "stars": 5173,
+        "stars": 5174,
         "url": "https://github.com/SuiteCRM/SuiteCRM",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-27"
@@ -552,7 +552,7 @@
       {
         "name": "dolibarr",
         "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
-        "stars": 6710,
+        "stars": 6712,
         "url": "https://github.com/Dolibarr/dolibarr",
         "license": "GNU General Public License v3.0",
         "last_update": "2025-12-01"
@@ -566,7 +566,7 @@
       {
         "name": "mautic",
         "description": "Mautic: Open Source Marketing Automation Software.",
-        "stars": 8924,
+        "stars": 8926,
         "url": "https://github.com/mautic/mautic",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -577,7 +577,7 @@
         "stars": 3862,
         "url": "https://github.com/erxes/erxes",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -588,15 +588,15 @@
       {
         "name": "server",
         "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
-        "stars": 17546,
+        "stars": 17550,
         "url": "https://github.com/bitwarden/server",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "vaultwarden",
         "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "stars": 51451,
+        "stars": 51465,
         "url": "https://github.com/dani-garcia/vaultwarden",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-30"
@@ -612,7 +612,7 @@
       {
         "name": "keepassxc",
         "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-        "stars": 24990,
+        "stars": 24996,
         "url": "https://github.com/keepassxreboot/keepassxc",
         "license": "Other",
         "last_update": "2025-11-28"
@@ -626,23 +626,23 @@
       {
         "name": "server",
         "description": "☁️ Nextcloud server, a safe home for all your data",
-        "stars": 33499,
+        "stars": 33504,
         "url": "https://github.com/nextcloud/server",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "core",
         "description": ":cloud: ownCloud web server core (Files, DAV, etc.)",
-        "stars": 8690,
+        "stars": 8692,
         "url": "https://github.com/owncloud/core",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-11-28"
+        "last_update": "2025-12-02"
       },
       {
         "name": "filebrowser",
         "description": "📂 Web File Browser",
-        "stars": 32235,
+        "stars": 32244,
         "url": "https://github.com/filebrowser/filebrowser",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -656,18 +656,18 @@
       {
         "name": "gitlabhq",
         "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-        "stars": 24173,
+        "stars": 24175,
         "url": "https://github.com/gitlabhq/gitlabhq",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "gitea",
         "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-        "stars": 52265,
+        "stars": 52274,
         "url": "https://github.com/go-gitea/gitea",
         "license": "MIT License",
-        "last_update": "2025-11-30"
+        "last_update": "2025-12-02"
       },
       {
         "name": "gogs",
@@ -686,7 +686,7 @@
       {
         "name": "harbor",
         "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-        "stars": 26994,
+        "stars": 27001,
         "url": "https://github.com/goharbor/harbor",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -694,7 +694,7 @@
       {
         "name": "zot",
         "description": "zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)",
-        "stars": 1569,
+        "stars": 1570,
         "url": "https://github.com/project-zot/zot",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -716,31 +716,31 @@
       {
         "name": "n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 159938,
+        "stars": 160028,
         "url": "https://github.com/n8n-io/n8n",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "activepieces",
         "description": "AI Agents \u0026 MCPs \u0026 AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows \u0026 AI Agents • MCPs for AI Agents",
-        "stars": 19331,
+        "stars": 19339,
         "url": "https://github.com/activepieces/activepieces",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "automatisch",
         "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
-        "stars": 13369,
+        "stars": 13370,
         "url": "https://github.com/automatisch/automatisch",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "huginn",
         "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
-        "stars": 48210,
+        "stars": 48219,
         "url": "https://github.com/huginn/huginn",
         "license": "MIT License",
         "last_update": "2025-11-29"
@@ -754,7 +754,7 @@
       {
         "name": "docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-        "stars": 10950,
+        "stars": 10949,
         "url": "https://github.com/docusealco/docuseal",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -762,10 +762,10 @@
       {
         "name": "documenso",
         "description": "The Open Source DocuSign Alternative.",
-        "stars": 11980,
+        "stars": 11981,
         "url": "https://github.com/documenso/documenso",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -776,10 +776,10 @@
       {
         "name": "cal.com",
         "description": "Scheduling infrastructure for absolutely everyone.",
-        "stars": 38993,
+        "stars": 39001,
         "url": "https://github.com/calcom/cal.com",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -790,15 +790,15 @@
       {
         "name": "chatwoot",
         "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "stars": 26178,
+        "stars": 26184,
         "url": "https://github.com/chatwoot/chatwoot",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "papercups",
         "description": "Open-source live customer chat",
-        "stars": 5902,
+        "stars": 5903,
         "url": "https://github.com/papercups-io/papercups",
         "license": "MIT License",
         "last_update": "2024-02-15"
@@ -820,7 +820,7 @@
       {
         "name": "zammad",
         "description": "Zammad is a web based open source helpdesk/customer support system.",
-        "stars": 5241,
+        "stars": 5243,
         "url": "https://github.com/zammad/zammad",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -836,7 +836,7 @@
       {
         "name": "community-skeleton",
         "description": "UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",
-        "stars": 16864,
+        "stars": 16871,
         "url": "https://github.com/uvdesk/community-skeleton",
         "license": "Open Software License 3.0",
         "last_update": "2025-10-01"
@@ -850,34 +850,34 @@
       {
         "name": "signoz",
         "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) \u0026 Observability tool",
-        "stars": 24730,
+        "stars": 24739,
         "url": "https://github.com/SigNoz/signoz",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "prometheus",
         "description": "The Prometheus monitoring system and time series database.",
-        "stars": 61542,
+        "stars": 61546,
         "url": "https://github.com/prometheus/prometheus",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "grafana",
         "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
-        "stars": 71065,
+        "stars": 71069,
         "url": "https://github.com/grafana/grafana",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "openobserve",
         "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.",
-        "stars": 17389,
+        "stars": 17392,
         "url": "https://github.com/openobserve/openobserve",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -888,18 +888,18 @@
       {
         "name": "loki",
         "description": "Like Prometheus, but for logs.",
-        "stars": 27054,
+        "stars": 27056,
         "url": "https://github.com/grafana/loki",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "graylog2-server",
         "description": "Free and open log management",
-        "stars": 7888,
+        "stars": 7892,
         "url": "https://github.com/Graylog2/graylog2-server",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -910,10 +910,10 @@
       {
         "name": "signoz",
         "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) \u0026 Observability tool",
-        "stars": 24730,
+        "stars": 24739,
         "url": "https://github.com/SigNoz/signoz",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "pinpoint",
@@ -921,7 +921,7 @@
         "stars": 13755,
         "url": "https://github.com/pinpoint-apm/pinpoint",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -932,15 +932,15 @@
       {
         "name": "sentry",
         "description": "Developer-first error tracking and performance monitoring",
-        "stars": 42587,
+        "stars": 42591,
         "url": "https://github.com/getsentry/sentry",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "highlight",
         "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
-        "stars": 9012,
+        "stars": 9015,
         "url": "https://github.com/highlight/highlight",
         "license": "Other",
         "last_update": "2025-11-13"
@@ -962,7 +962,7 @@
       {
         "name": "oncall",
         "description": "Developer-friendly incident response with brilliant Slack integration",
-        "stars": 3846,
+        "stars": 3847,
         "url": "https://github.com/grafana/oncall",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-21"
@@ -970,7 +970,7 @@
       {
         "name": "server",
         "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
-        "stars": 14130,
+        "stars": 14136,
         "url": "https://github.com/gotify/server",
         "license": "Other",
         "last_update": "2025-11-30"
@@ -984,7 +984,7 @@
       {
         "name": "uptime-kuma",
         "description": "A fancy self-hosted monitoring tool",
-        "stars": 79157,
+        "stars": 79177,
         "url": "https://github.com/louislam/uptime-kuma",
         "license": "MIT License",
         "last_update": "2025-12-01"
@@ -992,7 +992,7 @@
       {
         "name": "cachet",
         "description": "🚦 Cachet, the open-source, self-hosted status page system.",
-        "stars": 14761,
+        "stars": 14762,
         "url": "https://github.com/cachethq/cachet",
         "license": "Other",
         "last_update": "2025-08-19"
@@ -1000,10 +1000,10 @@
       {
         "name": "upptime",
         "description": "⬆️ GitHub Actions uptime monitor \u0026 status page by @AnandChowdhary",
-        "stars": 16696,
+        "stars": 16697,
         "url": "https://github.com/upptime/upptime",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1014,7 +1014,7 @@
       {
         "name": "listmonk",
         "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-        "stars": 18356,
+        "stars": 18355,
         "url": "https://github.com/knadh/listmonk",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-30"
@@ -1022,7 +1022,7 @@
       {
         "name": "mautic",
         "description": "Mautic: Open Source Marketing Automation Software.",
-        "stars": 8924,
+        "stars": 8926,
         "url": "https://github.com/mautic/mautic",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -1049,7 +1049,7 @@
       {
         "name": "gimp",
         "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/gimp",
-        "stars": 5816,
+        "stars": 5817,
         "url": "https://github.com/GNOME/gimp",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -1085,15 +1085,15 @@
       {
         "name": "darktable",
         "description": "darktable is an open source photography workflow application and raw developer",
-        "stars": 11680,
+        "stars": 11678,
         "url": "https://github.com/darktable-org/darktable",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "RawTherapee",
         "description": "A powerful cross-platform raw photo processing program",
-        "stars": 3684,
+        "stars": 3683,
         "url": "https://github.com/RawTherapee/RawTherapee",
         "license": "GNU General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1115,15 +1115,15 @@
       {
         "name": "shotcut",
         "description": "cross-platform (Qt), open-source (GPLv3) video editor",
-        "stars": 13052,
+        "stars": 13053,
         "url": "https://github.com/mltframework/shotcut",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "olive",
         "description": "Free open-source non-linear video editor",
-        "stars": 8855,
+        "stars": 8856,
         "url": "https://github.com/olive-editor/olive",
         "license": "GNU General Public License v3.0",
         "last_update": "2024-12-05"
@@ -1154,7 +1154,7 @@
         "stars": 3488,
         "url": "https://github.com/LibreOffice/core",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "DocumentServer",
@@ -1167,10 +1167,10 @@
       {
         "name": "online",
         "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
-        "stars": 2698,
+        "stars": 2699,
         "url": "https://github.com/CollaboraOnline/online",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1181,7 +1181,7 @@
       {
         "name": "cryptpad",
         "description": "Collaborative office suite, end-to-end encrypted and open-source.",
-        "stars": 7108,
+        "stars": 7109,
         "url": "https://github.com/cryptpad/cryptpad",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1189,7 +1189,7 @@
       {
         "name": "etherpad-lite",
         "description": "Etherpad: A modern really-real-time collaborative document editor.",
-        "stars": 17941,
+        "stars": 17944,
         "url": "https://github.com/ether/etherpad-lite",
         "license": "Apache License 2.0",
         "last_update": "2025-12-01"
@@ -1197,10 +1197,10 @@
       {
         "name": "server",
         "description": "☁️ Nextcloud server, a safe home for all your data",
-        "stars": 33499,
+        "stars": 33504,
         "url": "https://github.com/nextcloud/server",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1211,7 +1211,7 @@
       {
         "name": "joplin",
         "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
-        "stars": 52353,
+        "stars": 52358,
         "url": "https://github.com/laurent22/joplin",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -1233,15 +1233,15 @@
       {
         "name": "logseq",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267",
-        "stars": 39641,
+        "stars": 39645,
         "url": "https://github.com/logseq/logseq",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "foam",
         "description": "A personal knowledge management and sharing system for VSCode",
-        "stars": 16586,
+        "stars": 16585,
         "url": "https://github.com/foambubble/foam",
         "license": "Other",
         "last_update": "2025-11-24"
@@ -1263,18 +1263,18 @@
       {
         "name": "keycloak",
         "description": "Open Source Identity and Access Management For Modern Applications and Services",
-        "stars": 31353,
+        "stars": 31359,
         "url": "https://github.com/keycloak/keycloak",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "zitadel",
         "description": "ZITADEL - Identity infrastructure, simplified for you.",
-        "stars": 12283,
+        "stars": 12287,
         "url": "https://github.com/zitadel/zitadel",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "kratos",
@@ -1287,10 +1287,10 @@
       {
         "name": "authentik",
         "description": "The authentication glue you need.",
-        "stars": 19042,
+        "stars": 19048,
         "url": "https://github.com/goauthentik/authentik",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1301,18 +1301,18 @@
       {
         "name": "vault",
         "description": "A tool for secrets management, encryption as a service, and privileged access management",
-        "stars": 33540,
+        "stars": 33548,
         "url": "https://github.com/hashicorp/vault",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "infisical",
         "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
-        "stars": 23801,
+        "stars": 23806,
         "url": "https://github.com/Infisical/infisical",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1323,18 +1323,18 @@
       {
         "name": "opentofu",
         "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
-        "stars": 27227,
+        "stars": 27232,
         "url": "https://github.com/opentofu/opentofu",
         "license": "Mozilla Public License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "crossplane",
         "description": "The Cloud Native Control Plane",
-        "stars": 11152,
+        "stars": 11154,
         "url": "https://github.com/crossplane/crossplane",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1348,20 +1348,20 @@
         "stars": 77138,
         "url": "https://github.com/hoppscotch/hoppscotch",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "bruno",
         "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-        "stars": 39025,
+        "stars": 39037,
         "url": "https://github.com/usebruno/bruno",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "insomnia",
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-        "stars": 37615,
+        "stars": 37620,
         "url": "https://github.com/Kong/insomnia",
         "license": "Apache License 2.0",
         "last_update": "2025-11-28"
@@ -1375,15 +1375,15 @@
       {
         "name": "formbricks",
         "description": "Open Source Qualtrics Alternative",
-        "stars": 11577,
+        "stars": 11579,
         "url": "https://github.com/formbricks/formbricks",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "ohmyform",
         "description": "✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺",
-        "stars": 2889,
+        "stars": 2890,
         "url": "https://github.com/ohmyform/ohmyform",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2024-10-31"
@@ -1405,10 +1405,10 @@
       {
         "name": "element-web",
         "description": "A glossy Matrix collaboration client for the web.",
-        "stars": 12326,
+        "stars": 12328,
         "url": "https://github.com/element-hq/element-web",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1419,10 +1419,10 @@
       {
         "name": "rustdesk",
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "stars": 103327,
+        "stars": 103354,
         "url": "https://github.com/rustdesk/rustdesk",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1433,7 +1433,7 @@
       {
         "name": "shlink",
         "description": "The definitive self-hosted URL shortener",
-        "stars": 4481,
+        "stars": 4482,
         "url": "https://github.com/shlinkio/shlink",
         "license": "MIT License",
         "last_update": "2025-11-18"
@@ -1441,10 +1441,10 @@
       {
         "name": "dub",
         "description": "The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.",
-        "stars": 22696,
+        "stars": 22700,
         "url": "https://github.com/dubinc/dub",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "YOURLS",
@@ -1463,7 +1463,7 @@
       {
         "name": "meilisearch",
         "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-        "stars": 54763,
+        "stars": 54766,
         "url": "https://github.com/meilisearch/meilisearch",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -1471,7 +1471,7 @@
       {
         "name": "typesense",
         "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
-        "stars": 24757,
+        "stars": 24760,
         "url": "https://github.com/typesense/typesense",
         "license": "GNU General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1479,10 +1479,10 @@
       {
         "name": "manticoresearch",
         "description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack",
-        "stars": 11438,
+        "stars": 11439,
         "url": "https://github.com/manticoresoftware/manticoresearch",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1493,7 +1493,7 @@
       {
         "name": "imgproxy",
         "description": "Fast and secure standalone server for resizing, processing, and converting images on the fly",
-        "stars": 10129,
+        "stars": 10130,
         "url": "https://github.com/imgproxy/imgproxy",
         "license": "MIT License",
         "last_update": "2025-11-27"
@@ -1501,10 +1501,10 @@
       {
         "name": "thumbor",
         "description": "thumbor is an open-source photo thumbnail service by globo.com",
-        "stars": 10412,
+        "stars": 10411,
         "url": "https://github.com/thumbor/thumbor",
         "license": "MIT License",
-        "last_update": "2025-11-14"
+        "last_update": "2025-12-01"
       }
     ]
   },
@@ -1515,10 +1515,10 @@
       {
         "name": "actual",
         "description": "A local-first personal finance app",
-        "stars": 23451,
+        "stars": 23461,
         "url": "https://github.com/actualbudget/actual",
         "license": "MIT License",
-        "last_update": "2025-11-30"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1529,7 +1529,7 @@
       {
         "name": "maybe",
         "description": "The personal finance app for everyone",
-        "stars": 53825,
+        "stars": 53826,
         "url": "https://github.com/maybe-finance/maybe",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-07-24"
@@ -1537,7 +1537,7 @@
       {
         "name": "firefly-iii",
         "description": "Firefly III: a personal finances manager",
-        "stars": 21601,
+        "stars": 21603,
         "url": "https://github.com/firefly-iii/firefly-iii",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1559,10 +1559,10 @@
       {
         "name": "erpnext",
         "description": "Free and Open Source Enterprise Resource Planning (ERP)",
-        "stars": 30341,
+        "stars": 30347,
         "url": "https://github.com/frappe/erpnext",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "bigcapital",
@@ -1575,18 +1575,18 @@
       {
         "name": "akaunting",
         "description": "Online Accounting Software",
-        "stars": 9378,
+        "stars": 9380,
         "url": "https://github.com/akaunting/akaunting",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "invoiceninja",
         "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
-        "stars": 9360,
+        "stars": 9361,
         "url": "https://github.com/invoiceninja/invoiceninja",
         "license": "Other",
-        "last_update": "2025-11-27"
+        "last_update": "2025-12-01"
       }
     ]
   },
@@ -1611,10 +1611,10 @@
       {
         "name": "Ghost",
         "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-        "stars": 51292,
+        "stars": 51295,
         "url": "https://github.com/TryGhost/Ghost",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1633,10 +1633,10 @@
       {
         "name": "writefreely",
         "description": "A clean, Markdown-based publishing platform made for writers. Write together and build a community.",
-        "stars": 4978,
+        "stars": 4977,
         "url": "https://github.com/writefreely/writefreely",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-11-27"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1647,7 +1647,7 @@
       {
         "name": "WordPress",
         "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",
-        "stars": 20673,
+        "stars": 20674,
         "url": "https://github.com/WordPress/WordPress",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -1655,10 +1655,10 @@
       {
         "name": "Ghost",
         "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-        "stars": 51292,
+        "stars": 51295,
         "url": "https://github.com/TryGhost/Ghost",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1677,10 +1677,10 @@
       {
         "name": "penpot",
         "description": "Penpot: The open-source design tool for design and code collaboration",
-        "stars": 42967,
+        "stars": 42978,
         "url": "https://github.com/penpot/penpot",
         "license": "Mozilla Public License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -1705,15 +1705,15 @@
       {
         "name": "immich",
         "description": "High performance self-hosted photo and video management solution.",
-        "stars": 85441,
+        "stars": 85465,
         "url": "https://github.com/immich-app/immich",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "photoprism",
         "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
-        "stars": 38843,
+        "stars": 38840,
         "url": "https://github.com/photoprism/photoprism",
         "license": "Other",
         "last_update": "2025-12-01"
@@ -1721,7 +1721,7 @@
       {
         "name": "librephotos",
         "description": "A self-hosted open source photo management service. This is the repository of the backend.",
-        "stars": 7851,
+        "stars": 7850,
         "url": "https://github.com/LibrePhotos/librephotos",
         "license": "MIT License",
         "last_update": "2025-12-01"
@@ -1735,7 +1735,7 @@
       {
         "name": "PeerTube",
         "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
-        "stars": 14235,
+        "stars": 14236,
         "url": "https://github.com/Chocobozzz/PeerTube",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-28"
@@ -1751,7 +1751,7 @@
       {
         "name": "Piped",
         "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
-        "stars": 9581,
+        "stars": 9583,
         "url": "https://github.com/TeamPiped/Piped",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1765,15 +1765,15 @@
       {
         "name": "navidrome",
         "description": "🎧☁️ Your Personal Streaming Service",
-        "stars": 17751,
+        "stars": 17761,
         "url": "https://github.com/navidrome/navidrome",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "koel",
         "description": "Music streaming solution that works.",
-        "stars": 16873,
+        "stars": 16875,
         "url": "https://github.com/koel/koel",
         "license": "MIT License",
         "last_update": "2025-11-13"
@@ -1781,7 +1781,7 @@
       {
         "name": "mopidy",
         "description": "Mopidy is an extensible music server written in Python",
-        "stars": 8401,
+        "stars": 8402,
         "url": "https://github.com/mopidy/mopidy",
         "license": "Apache License 2.0",
         "last_update": "2025-11-24"
@@ -1795,7 +1795,7 @@
       {
         "name": "jellyfin",
         "description": "The Free Software Media System - Server Backend \u0026 API",
-        "stars": 46165,
+        "stars": 46185,
         "url": "https://github.com/jellyfin/jellyfin",
         "license": "GNU General Public License v2.0",
         "last_update": "2025-12-01"
@@ -1803,7 +1803,7 @@
       {
         "name": "audiobookshelf",
         "description": "Self-hosted audiobook and podcast server",
-        "stars": 10858,
+        "stars": 10862,
         "url": "https://github.com/advplyr/audiobookshelf",
         "license": "GNU General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1811,7 +1811,7 @@
       {
         "name": "pms-docker",
         "description": "Plex Media Server Docker repo, for all your PMS docker needs.",
-        "stars": 3795,
+        "stars": 3797,
         "url": "https://github.com/plexinc/pms-docker",
         "license": "",
         "last_update": "2025-11-27"
@@ -1825,7 +1825,7 @@
       {
         "name": "LibreTranslate",
         "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
-        "stars": 13189,
+        "stars": 13190,
         "url": "https://github.com/LibreTranslate/LibreTranslate",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-28"
@@ -1839,15 +1839,15 @@
       {
         "name": "ollama",
         "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
-        "stars": 156873,
+        "stars": 156897,
         "url": "https://github.com/ollama/ollama",
         "license": "MIT License",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "gpt4all",
         "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
-        "stars": 76935,
+        "stars": 76940,
         "url": "https://github.com/nomic-ai/gpt4all",
         "license": "MIT License",
         "last_update": "2025-05-27"
@@ -1858,7 +1858,7 @@
         "stars": 45525,
         "url": "https://github.com/oobabooga/text-generation-webui",
         "license": "GNU Affero General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "chat-ui",
@@ -1877,7 +1877,7 @@
       {
         "name": "tabby",
         "description": "Self-hosted AI coding assistant",
-        "stars": 32514,
+        "stars": 32518,
         "url": "https://github.com/TabbyML/tabby",
         "license": "Other",
         "last_update": "2025-11-27"
@@ -1891,15 +1891,15 @@
       {
         "name": "ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "stars": 95182,
+        "stars": 95246,
         "url": "https://github.com/comfyanonymous/ComfyUI",
         "license": "GNU General Public License v3.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "stable-diffusion-webui",
         "description": "Stable Diffusion web UI",
-        "stars": 158669,
+        "stars": 158677,
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-07"
@@ -1913,23 +1913,23 @@
       {
         "name": "superset",
         "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-        "stars": 69169,
+        "stars": 69178,
         "url": "https://github.com/apache/superset",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "metabase",
         "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
-        "stars": 44780,
+        "stars": 44789,
         "url": "https://github.com/metabase/metabase",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "redash",
         "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
-        "stars": 28020,
+        "stars": 28022,
         "url": "https://github.com/getredash/redash",
         "license": "BSD 2-Clause \"Simplified\" License",
         "last_update": "2025-12-01"
@@ -1943,7 +1943,7 @@
       {
         "name": "wiki",
         "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
-        "stars": 27415,
+        "stars": 27419,
         "url": "https://github.com/requarks/wiki",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-11-16"
@@ -1951,7 +1951,7 @@
       {
         "name": "docmost",
         "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
-        "stars": 18083,
+        "stars": 18088,
         "url": "https://github.com/docmost/docmost",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -1959,7 +1959,7 @@
       {
         "name": "BookStack",
         "description": "A platform to create documentation/wiki content built with PHP \u0026 Laravel",
-        "stars": 17797,
+        "stars": 17802,
         "url": "https://github.com/BookStackApp/BookStack",
         "license": "MIT License",
         "last_update": "2025-11-30"
@@ -1973,7 +1973,7 @@
       {
         "name": "vikunja",
         "description": "The to-do app to organize your life.",
-        "stars": 2763,
+        "stars": 2766,
         "url": "https://github.com/go-vikunja/vikunja",
         "license": "GNU Affero General Public License v3.0",
         "last_update": "2025-12-01"
@@ -2003,10 +2003,10 @@
       {
         "name": "odoo",
         "description": "Odoo. Open Source Apps To Grow Your Business.",
-        "stars": 47575,
+        "stars": 47586,
         "url": "https://github.com/odoo/odoo",
         "license": "Other",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       }
     ]
   },
@@ -2017,10 +2017,10 @@
       {
         "name": "woodpecker",
         "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
-        "stars": 5791,
+        "stars": 5794,
         "url": "https://github.com/woodpecker-ci/woodpecker",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "harness",
@@ -2039,7 +2039,7 @@
       {
         "name": "mailinabox",
         "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
-        "stars": 15063,
+        "stars": 15064,
         "url": "https://github.com/mail-in-a-box/mailinabox",
         "license": "Creative Commons Zero v1.0 Universal",
         "last_update": "2025-07-28"
@@ -2047,7 +2047,7 @@
       {
         "name": "postal",
         "description": "📮 A fully featured open source mail delivery platform for incoming \u0026 outgoing e-mail",
-        "stars": 16080,
+        "stars": 16082,
         "url": "https://github.com/postalserver/postal",
         "license": "MIT License",
         "last_update": "2025-10-10"
@@ -2069,10 +2069,10 @@
       {
         "name": "core",
         "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-        "stars": 82890,
+        "stars": 82900,
         "url": "https://github.com/home-assistant/core",
         "license": "Apache License 2.0",
-        "last_update": "2025-12-01"
+        "last_update": "2025-12-02"
       },
       {
         "name": "openhab-core",
@@ -2080,7 +2080,7 @@
         "stars": 1069,
         "url": "https://github.com/openhab/openhab-core",
         "license": "Eclipse Public License 2.0",
-        "last_update": "2025-11-30"
+        "last_update": "2025-12-02"
       }
     ]
   }
